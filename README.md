@@ -1,2 +1,2 @@
-# CSCE121
-CSCE121 Homework and Labwork
+# CSCE120
+CSCE120 Homework and Labs
